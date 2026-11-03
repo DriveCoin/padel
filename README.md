@@ -1,2 +1,2 @@
 # padel
-Padel coin
+Padel coin repo.
